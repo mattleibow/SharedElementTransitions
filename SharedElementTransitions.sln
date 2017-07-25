@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedElementTransitions", "SharedElementTransitions\SharedElementTransitions.csproj", "{0A85B763-A863-4DBB-8CAB-AF3962B8826A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A85B763-A863-4DBB-8CAB-AF3962B8826A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A85B763-A863-4DBB-8CAB-AF3962B8826A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A85B763-A863-4DBB-8CAB-AF3962B8826A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A85B763-A863-4DBB-8CAB-AF3962B8826A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
